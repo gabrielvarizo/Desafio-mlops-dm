@@ -1,0 +1,4 @@
+artifact_location: file:///Users/gabrielvarizo/Desktop/Gabriel-Desafio_borabusao/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: RF_model_pipeline_borabusao_

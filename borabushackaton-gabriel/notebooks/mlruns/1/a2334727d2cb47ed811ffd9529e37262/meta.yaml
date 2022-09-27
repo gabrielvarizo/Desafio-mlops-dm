@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gabrielvarizo/Desktop/Gabriel-Desafio_borabusao/mlruns/1/a2334727d2cb47ed811ffd9529e37262/artifacts
+end_time: 1663874660324
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a2334727d2cb47ed811ffd9529e37262
+run_uuid: a2334727d2cb47ed811ffd9529e37262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663874654593
+status: 3
+tags: []
+user_id: gabrielvarizo
